@@ -1,0 +1,54 @@
+
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "mmsi":     257118700,
+        "name": "debug Holmtun",
+        "sog": 5.5,
+        "trueHeading": 45
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.899566650390623,
+          65.17668892540811
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mmsi":     257261800,
+        "name": "debug KL Brisfjord",
+        "sog": 15,
+        "trueHeading": 200
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.193450927734375,
+          65.22680019699968
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mmsi": 209445000,
+        "name": "debug Key Star",
+        "sog": 0.1,
+        "trueHeading": 125
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.030029296875,
+          65.15419444481542
+        ]
+      }
+    }
+  ]
+}
